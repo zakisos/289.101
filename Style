@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Styles</title>
+    
+<style>
+/*  styles paragraph  */
+    .Important{
+color:#FF0000;
+    }
+    </style>
+    
+</head>
+
+<body>
+    
+<!-- my paragraphs -->
+    <p style="color:#FF0000;">important text</p>
+    <p style="color:#FF0000;">More important text</p>
+    <p style="color:#FF0000;">Some more important text</p>
+</body>
+
+</html>
